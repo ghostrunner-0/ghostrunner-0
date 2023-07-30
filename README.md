@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Begwani</h1>
 <h3 align="center">A passionate student from Nepal</h3>
+<image algin="right" alt="coding" width="400" scr="![image](https://github.com/ghostrunner0/ghostrunner0/assets/138878654/fba9223c-2152-4ffa-9c13-41bf477c9698)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostrunner0&label=Profile%20views&color=0e75b6&style=flat" alt="ghostrunner0" /> </p>
 
