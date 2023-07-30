@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostrunner0&show_icons=true&locale=en&layout=compact" alt="ghostrunner0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostrunner0&" alt="ghostrunner0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostrunner-0" alt="ghostrunner0" /></p>
