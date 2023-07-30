@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Begwani</h1>
 <h3 align="center">A passionate student from Nepal</h3>
-<image algin="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2nJtfkJNy9tMEldPDcpXKG&ust=1690798628464000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiElfGZtoADFQAAAAAdAAAAABAE
-">
+<img algin="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2nJtfkJNy9tMEldPDcpXKG&ust=1690798628464000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiElfGZtoADFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostrunner0&label=Profile%20views&color=0e75b6&style=flat" alt="ghostrunner0" /> </p>
 
