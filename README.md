@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/priyanshu-begwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-begwani" height="30" width="40" /></a>
 <a href="https://fb.com/priyanshu.begwani.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu.begwani.1" height="30" width="40" /></a>
-<a href="https://instagram.com/begwani_priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="begwani_piyanshu" height="30" width="40" /></a>
+<a href="[https://instagram.com/begwani_priyanshu](https://www.instagram.com/begwani_priyanshu/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="begwani_piyanshu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
