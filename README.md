@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostrunner-0&label=Profile%20views&color=0e75b6&style=flat" alt="ghostrunner-0" /> </p>
 
-- 🔭 I’m currently learning **C Programming**
-
 - 📫 How to reach me **itsmepriyanshu01@gmail.com**
 
 - ⚡ Fun fact **I think i am a good programmer**
